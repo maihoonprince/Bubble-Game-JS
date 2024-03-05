@@ -15,7 +15,7 @@ gameName.addEventListener("click", function () {
     }
 });
 
-var timer = "6";
+var timer = "60";
 var score = 0;
 var hitrn = 0;
 
